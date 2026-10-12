@@ -1,0 +1,4 @@
+# the scraper's error logs, kept here between runs
+logs/
+__pycache__/
+*.py[cod]

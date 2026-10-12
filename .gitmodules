@@ -1,0 +1,3 @@
+[submodule "tool"]
+	path = tool
+	url = https://github.com/ZornTaov/DemonicScans-dl.git
