@@ -2,3 +2,6 @@
 logs/
 __pycache__/
 *.py[cod]
+# the python packages the updater installs for it, and its lock while it does
+.venv/
+.venv.lock
