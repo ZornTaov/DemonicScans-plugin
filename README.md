@@ -1,6 +1,6 @@
-# DemonicScans plugin for ZC-ComicUpdater
+# DemonicScans plugin for ZornCoMix
 
-A [scraper plugin](https://github.com/ZornTaov/ZC-ComicUpdater/wiki/Scraper-Plugins) that keeps a series from
+A [scraper plugin](https://github.com/ZornTaov/ZornCoMix/wiki/Scraper-Plugins) that keeps a series from
 demonicscans.org up to date with [DemonicScans-dl](https://github.com/ZornTaov/DemonicScans-dl), which sits in
 `tool/` as a submodule.
 
